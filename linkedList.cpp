@@ -1,4 +1,4 @@
-//#include "queue.cpp"
+#include "priorityQueue.cpp"
 
 template <class Type>
 struct nodeType {
